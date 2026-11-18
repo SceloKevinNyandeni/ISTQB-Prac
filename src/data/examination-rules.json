@@ -1,0 +1,27 @@
+{
+ "source": "ISTQB Exam Structures and Rules v1.2 (May 2, 2025) and Exam Structure Tables v1.17 (CTFL v4.0)",
+ "foundation": {
+  "questions": 40,
+  "points": 40,
+  "passPercent": 65,
+  "passPoints": 26,
+  "durationMinutes": 60,
+  "extraTimePercentNonNativeLanguage": 25,
+  "pointsPerQuestion": 1,
+  "kLevels": {
+   "K1": 8,
+   "K2": 24,
+   "K3": 8
+  },
+  "perChapter": {
+   "1": 8,
+   "2": 6,
+   "3": 4,
+   "4": 11,
+   "5": 9,
+   "6": 2
+  }
+ },
+ "multipleChoiceRule": "Questions are multiple-choice: select the best possible answer (or answers) per the syllabus.",
+ "partialMarks": "Not defined in the supplied documents; each Foundation question is worth exactly one point, so multiple-select questions are scored all-or-nothing."
+}
